@@ -1,0 +1,19 @@
+p.General{
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+p.Only{
+    font-size: 24px;
+}
+
+div#second{
+    color: blue;
+    font-size: 36px;
+}
+
+div#fourth{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
